@@ -1,0 +1,1 @@
+print ("Os dias da semana são: segunda, terça, quarta, quinta, sexta, sabado, domingo")
